@@ -2,9 +2,7 @@
 
 ![id-ahmadrosid-com](./id-ahmadrosid-com.png)
 
-Blogster is a collection of beautiful, accessible and performant blog templates built with [Astro](https://astro.build) and [Markdoc](https://markdoc.dev).
-
-Check out the demo here - [Blogster bubblegum template](https://blogster-bubblegum.netlify.app).
+[Demo](https://id.ahmadrosid.com).
 
 ## Bubblegum Template
 
