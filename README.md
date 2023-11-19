@@ -1,6 +1,6 @@
-# Blogster
+# Blogster bubblegum
 
-Theme: **bubblegum**
+![id-ahmadrosid-com](./id-ahmadrosid-com.png)
 
 Blogster is a collection of beautiful, accessible and performant blog templates built with [Astro](https://astro.build) and [Markdoc](https://markdoc.dev).
 
