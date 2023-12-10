@@ -18,4 +18,4 @@ Di sini gw juga mencari informasi bagaimana sih cara mengatasi layu fusrium pada
 karena jika tidak di atasi akan merambat ke tanaman lainnya, dan gw mendapatkan cara mengatasinya. 
 Tapi gw belum melakukan ituu, kapan gw melakukanya, kaga ada yang tau pastinya kapan heheheh!
 
-<h2 class= text-center font-semibold>“tanaman yang tidak memiliki akal saja bisa memberikan dampak buruk pada tanaman lainnya, bagaimana dengan manusia yang mempunyai akal”</h2>
+<h2>“tanaman yang tidak memiliki akal saja bisa memberikan dampak buruk pada tanaman lainnya, bagaimana dengan manusia yang mempunyai akal”</h2>
