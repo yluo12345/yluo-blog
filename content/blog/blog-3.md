@@ -20,7 +20,7 @@ Si anak pergi lalu kembali dan berkata “ pemilik toko bilang , harga arloji in
 Sang Ayah berkata: “ sekarang coba bawa ke museum dan katakan ke mereka bahwa kamu mau menjual arloji tua ini..”
 
 Si anak pun pergi lalu kembali dan berkata “ mereka mendatangkan pakar arloji untuk memperkirakan harga nya, lalu mereka menawarkan kepada ku 1.000.000 Dollar untuk arloji ini…”
-Si Ayah berkata ###“nak, aku sedang mengajarkan mu bahwa kamu hanya akan dihargai dengan benar ketika kamu berada di lingkungan yang tepat, maka jangan pernah kamu tinggal di tempat yang salah lalu marah karena tidak ada yang menghargai mu…”
+Si Ayah berkata ### “nak, aku sedang mengajarkan mu bahwa kamu hanya akan dihargai dengan benar ketika kamu berada di lingkungan yang tepat, maka jangan pernah kamu tinggal di tempat yang salah lalu marah karena tidak ada yang menghargai mu…”
 
 Karena Mereka yang mengetahui nilai mu, akan selalu menghargai mu,…
 Maka jangan pernah bergaul di tempat yang tidak layak untuk mu… 
