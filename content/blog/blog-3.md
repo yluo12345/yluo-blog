@@ -25,3 +25,5 @@ Si Ayah berkata:
 
 Karena Mereka yang mengetahui nilai mu, akan selalu menghargai mu,…
 Maka jangan pernah bergaul di tempat yang tidak layak untuk mu… 
+
+## pertanyaan gua sepenting itukah Harga Diri ?
